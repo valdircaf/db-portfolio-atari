@@ -1,0 +1,13 @@
+[
+    {
+        "id": 1,
+        "name": "Microservice Amigo do Bolso",
+        "Tecnologias": [
+            "../../../assets/img/icons8-logo-java-coffee-cup.svg",  "../../../assets/img/icons8-reagir.svg", "../../../assets/img/icons8-atrevimento.svg"
+        ],
+        "description": [
+            "- O Microservice da empresa Amigo do Bolso foi desenvolvido para facilitar o manuseio de clientes.", "A aplicação ajuda a empresa a observar os clientes em prospecção, organizando o status de cada cliente.", "A aplicação foi construída no seu front-end em React.js e SCSS. Já no seu backend foi utilizado Java/Springboot. Contando com telas de login/registro a aplicação compõe um microservice completo."    
+        ],
+        "video": "../../../assets/video/Amigo do bolso.mp4"
+    }
+]
