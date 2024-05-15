@@ -22,7 +22,7 @@
                 "- O Buscador de preços do Rede Frota facilita o trabalho das transportadoras em busca dos menores preços de combustível dentro de uma determinada rota traçada.", "- O transportador sempre está em busca de preços mais baratos. O buscador veio para agilizar e facilitar o trabalho manual de procura por preços nas rotas onde os caminhões irão percorrer para entregas.", "- O buscador faz um cálculo de média onde não deixa faltar posto em determinados km de distância, fazendo com que o motorista sempre tenha o menor preço intercalado entre as regiões que irá passar."    
             ],
             "video": "../../../assets/video/Buscador de preço.mp4",
-            "mainCardImage": "../../../assets/img/projects-img/Amigo do bolso.png"
+            "mainCardImage": "../../../assets/img/projects-img/Buscador de preço.png"
         },
         {
             "id": 3,
