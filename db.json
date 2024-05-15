@@ -31,7 +31,7 @@
                 "../../../assets/img/tec-icons/icons8-javascript.svg", "../../../assets/img/tec-icons/icons8-node-js.svg", "../../../assets/img/tec-icons/icons8-html5.svg"
             ],
             "descriptions": [
-                "- O Leitor de currículo foi uma feature para a Reachr Innovative Solutions.", "No leitor, o usuário pode carregar um arquivo .pdf ou .doc/.docx de currículo, e o leitor irá ler todo o currículo buscando por palavras chaves e ordenando em um arquivo .json, facilitando o uso dos dados de candidatos em vagas da empresa.", "- A solução é integrada atualmente com o software da empresa com um layout aprimorado."    
+                "- O Leitor de currículo foi uma feature para a Reachr Innovative Solutions.", "- No leitor, o usuário pode carregar um arquivo .pdf ou .doc/.docx de currículo, e o leitor irá ler todo o currículo buscando por palavras chaves e ordenando em um arquivo .json, facilitando o uso dos dados de candidatos em vagas da empresa.", "- A solução é integrada atualmente com o software da empresa com um layout aprimorado."    
             ],
             "video": "../../../assets/video/Leitor de curriculo.mp4",
             "mainCardImage": "../../../assets/img/projects-img/leitorcurriculo.svg"
@@ -91,7 +91,7 @@
                 "../../../assets/img/tec-icons/icons8-reagir.svg", "../../../assets/img/tec-icons/icons8-css3.svg", "../../../assets/img/tec-icons/icons8-javascript.svg"
             ],
             "descriptions": [
-                "- Pass Generator é um app que cria senhas aleatórias, baseadas na seleção do usuário. Pode-se escolher entre letras maiúsculas e minúsculas, números e caracteres especiais.", "Vi esta ideia de projeto em um dos cursos que fazia na época e criei o meu próprio. Achei um projeto bem legal para praticar a lógica de programação."
+                "- Pass Generator é um app que cria senhas aleatórias, baseadas na seleção do usuário. Pode-se escolher entre letras maiúsculas e minúsculas, números e caracteres especiais.", "- Vi esta ideia de projeto em um dos cursos que fazia na época e criei o meu próprio. Achei um projeto bem legal para praticar a lógica de programação."
             ],
             "video": "../../../assets/video/Pass Generator.mp4",
             "mainCardImage": "../../../assets/img/projects-img/passgenerator.png"
