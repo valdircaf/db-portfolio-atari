@@ -19,7 +19,7 @@
                 "../../../assets/img/tec-icons/icons8-javascript.svg", "../../../assets/img/tec-icons/icons8-google.svg", "../../../assets/img/tec-icons/icons8-html5.svg","../../../assets/img/tec-icons/icons8-css3.svg"
             ],
             "descriptions": [
-                "- O Buscador de preços do Rede Frota facilita o trabalho das transportadoras em busca dos menores preços de combustível dentro de uma determinada rota traçada.", "- O transportador sempre está em busca de preços mais baratos. O buscador veio para agilizar e facilitar o trabalho manual de procura por preços nas rotas onde os caminhões irão percorrer para entregas.", "- O buscador faz um cálculo de média onde não deixa faltar posto em determinados km de distância, fazendo com que o motorista sempre tenha o menor preço intercalado entre as regiões que irá passar."    
+                "- O Buscador de preços do Rede Frota facilita o trabalho das transportadoras em busca dos menores preços de combustível dentro de uma determinada rota traçada.", "- O buscador faz um cálculo de média onde não deixa faltar posto em determinados km de distância, fazendo com que o motorista sempre tenha o menor preço intercalado entre as regiões que irá passar."    
             ],
             "video": "../../../assets/video/Buscador de preço.mp4",
             "mainCardImage": "../../../assets/img/projects-img/Buscador de preço.png"
@@ -67,7 +67,7 @@
                 "../../../assets/img/tec-icons/icons8-reagir.svg", "../../../assets/img/tec-icons/icons8-atrevimento.svg", "../../../assets/img/tec-icons/icons8-javascript.svg"
             ],
             "descriptions": [
-                "- Daily Weather é uma aplicação web que consome uma API Rest e exibe a condição climática de todas as cidades, bairros estados ou países do mundo. Obtendo tanto os dados da temperatura atual, quanto nível de umidade e a quantidade de nuvens.", "- Este projeto foi desenvolvido com as seguintes tecnologias: React.js, Styled Components e Javascript", "- É uma aplicação que tenho apego até hoje, pois foi uma das minhas primeiras."
+                "- Daily Weather é uma aplicação web que consome uma API Rest e exibe a condição climática de todas as cidades, bairros estados ou países do mundo. Obtendo tanto os dados da temperatura atual, quanto nível de umidade e a quantidade de nuvens.", "- É uma aplicação que tenho apego até hoje, pois foi uma das minhas primeiras."
             ],
             "video": "../../../assets/video/dailyweather.mp4",
             "mainCardImage": "../../../assets/img/projects-img/dailyweather.png"
