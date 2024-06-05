@@ -10,7 +10,7 @@
                 "- O Microservice da empresa Amigo do Bolso foi desenvolvido para facilitar o manuseio de clientes.", "- A aplicação ajuda a empresa a observar os clientes em prospecção, organizando o status de cada cliente.", "- A aplicação foi construída no seu front-end em React.js e SCSS. Já no seu backend foi utilizado Java/Springboot. Contando com telas de login/registro a aplicação compõe um microservice completo."    
             ],
             "video": "../../../assets/video/Amigo do bolso.mp4",
-            "mainCardImage": "../../../assets/img/projects-img/Amigo do bolso.png"
+            "mainCardImage": "../../../assets/img/Amigo do Bolso.svg"
         },
         {
             "id": 2,
@@ -22,7 +22,7 @@
                 "- O Buscador de preços do Rede Frota facilita o trabalho das transportadoras em busca dos menores preços de combustível dentro de uma determinada rota traçada.", "- O transportador sempre está em busca de preços mais baratos. O buscador veio para agilizar e facilitar o trabalho manual de procura por preços nas rotas onde os caminhões irão percorrer para entregas.", "- O buscador faz um cálculo de média onde não deixa faltar posto em determinados km de distância, fazendo com que o motorista sempre tenha o menor preço intercalado entre as regiões que irá passar."    
             ],
             "video": "../../../assets/video/Buscador de preço.mp4",
-            "mainCardImage": "../../../assets/img/projects-img/Buscador de preço.png"
+            "mainCardImage": "../../../assets/img/Buscador.svg"
         },
         {
             "id": 3,
@@ -34,7 +34,7 @@
                 "- O Leitor de currículo foi uma feature para a Reachr Innovative Solutions.", "- No leitor, o usuário pode carregar um arquivo .pdf ou .doc/.docx de currículo, e o leitor irá ler todo o currículo buscando por palavras chaves e ordenando em um arquivo .json, facilitando o uso dos dados de candidatos em vagas da empresa.", "- A solução é integrada atualmente com o software da empresa com um layout aprimorado."    
             ],
             "video": "../../../assets/video/Leitor de curriculo.mp4",
-            "mainCardImage": "../../../assets/img/projects-img/leitorcurriculo.svg"
+            "mainCardImage": "../../../assets/img/projects-img/Leitor.svg"
         },
         {
             "id": 4,
@@ -46,7 +46,7 @@
                 "- O Live Chat foi desenvolvido em uma queda do WhatsApp.", "- Com o intuito de poder conversar com amigos, acabei desenvolvendo o Live Chat como uma opção para instabilidade do WhatsApp.", "- O app foi desenvolvido com React.js, e Java/Websocket no backend."    
             ],
             "video": "../../../assets/video/LiveChat.mp4",
-            "mainCardImage": "../../../assets/img/projects-img/livechat.png"
+            "mainCardImage": "../../../assets/img/LiveChat.svg"
         },
         {
             "id": 5,
@@ -58,7 +58,7 @@
                 "- Desenvolvi o App de finanças para me ajudar com meus custos mensais.", "- O App conta com organização de custo mensal, e custos variáveis.", "- É um CRUD completo, onde desenvolvi o frontend e o backend, utilizando React.js e Java/Springboot respectivamente.", "- Foi minha primeira aplicação Fullstack"    
             ],
             "video": "../../../assets/video/Financas.mp4",
-            "mainCardImage": "../../../assets/img/projects-img/finances.png"
+            "mainCardImage": "../../../assets/img/Finances.svg"
         },
         {
             "id": 6,
@@ -70,7 +70,7 @@
                 "- Daily Weather é uma aplicação web que consome uma API Rest e exibe a condição climática de todas as cidades, bairros estados ou países do mundo. Obtendo tanto os dados da temperatura atual, quanto nível de umidade e a quantidade de nuvens.", "- Este projeto foi desenvolvido com as seguintes tecnologias: React.js, Styled Components e Javascript", "- É uma aplicação que tenho apego até hoje, pois foi uma das minhas primeiras."
             ],
             "video": "../../../assets/video/dailyweather.mp4",
-            "mainCardImage": "../../../assets/img/projects-img/dailyweather.png"
+            "mainCardImage": "../../../assets/img/Daily Weather.svg"
         },
         {
             "id": 7,
@@ -82,7 +82,7 @@
                 "- O Apple Market é um clone da página de vendas da Apple.", "- Achei a página da apple um desafio legal para treinar, me fazendo a replicar a página de vendas(na época).", "- Fiz uma simulação de venda/pagamento com conclusão de pedido."
             ],
             "video": "../../../assets/video/applemarket.mp4",
-            "mainCardImage": "../../../assets/img/projects-img/applemarket.png"
+            "mainCardImage": "../../../assets/img/Apple.svg"
         },
         {
             "id": 8,
@@ -94,7 +94,7 @@
                 "- Pass Generator é um app que cria senhas aleatórias, baseadas na seleção do usuário. Pode-se escolher entre letras maiúsculas e minúsculas, números e caracteres especiais.", "- Vi esta ideia de projeto em um dos cursos que fazia na época e criei o meu próprio. Achei um projeto bem legal para praticar a lógica de programação."
             ],
             "video": "../../../assets/video/Pass Generator.mp4",
-            "mainCardImage": "../../../assets/img/projects-img/passgenerator.png"
+            "mainCardImage": "../../../assets/img/PassGenerator.svg"
         }
 
     ]
