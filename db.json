@@ -34,7 +34,7 @@
                 "- O Leitor de currículo foi uma feature para a Reachr Innovative Solutions.", "- No leitor, o usuário pode carregar um arquivo .pdf ou .doc/.docx de currículo, e o leitor irá ler todo o currículo buscando por palavras chaves e ordenando em um arquivo .json, facilitando o uso dos dados de candidatos em vagas da empresa.", "- A solução é integrada atualmente com o software da empresa com um layout aprimorado."    
             ],
             "video": "../../../assets/video/Leitor de curriculo.mp4",
-            "mainCardImage": "../../../assets/img/projects-img/Leitor.svg"
+            "mainCardImage": "../../../assets/img/Leitor.svg"
         },
         {
             "id": 4,
