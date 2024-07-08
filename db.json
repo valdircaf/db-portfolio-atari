@@ -44,6 +44,7 @@
         {
             "id": 4,
             "name": "App de finanças",
+            "backgroundImg": "url(src/assets/img/bg-livechat.png)",
             "technologies": [
                 "../../../assets/img/tec-icons/icons8-reagir.svg", "../../../assets/img/tec-icons/icons8-logo-java-coffee-cup.svg", "../../../assets/img/tec-icons/icons8-javascript.svg", "../../../assets/img/tec-icons/icons8-html5.svg", "../../../assets/img/tec-icons/icons8-atrevimento.svg"
             ],
