@@ -7,7 +7,7 @@
                 "../../../assets/img/tec-icons/icons8-logo-java-coffee-cup.svg",  "../../../assets/img/tec-icons/icons8-reagir.svg", "../../../assets/img/tec-icons/icons8-atrevimento.svg", "../../../assets/img/tec-icons/icons8-html5.svg"
             ],
             "descriptions": [
-                "- O Microservice da empresa Amigo do Bolso foi desenvolvido para facilitar o manuseio de clientes.", "- A aplicação ajuda a empresa a observar os clientes em prospecção, organizando o status de cada cliente.", "- A aplicação foi construída no seu front-end em React.js e SCSS. Já no seu backend foi utilizado Java/Springboot. Contando com telas de login/registro a aplicação compõe um microservice completo."    
+                "O Microservice da empresa Amigo do Bolso foi desenvolvido para facilitar o manuseio de clientes.", "A aplicação ajuda a empresa a observar os clientes em prospecção, organizando o status de cada cliente.", "A aplicação foi construída no seu front-end em React.js e SCSS. Já no seu backend foi utilizado Java/Springboot. Contando com telas de login/registro a aplicação compõe um microservice completo."    
             ],
             "video": "../../../assets/video/Amigo do bolso.mp4",
             "mainCardImage": "../../../assets/img/Amigo do Bolso.png",
@@ -20,7 +20,7 @@
                 "../../../assets/img/tec-icons/icons8-javascript.svg", "../../../assets/img/tec-icons/icons8-google.svg", "../../../assets/img/tec-icons/icons8-html5.svg","../../../assets/img/tec-icons/icons8-css3.svg"
             ],
             "descriptions": [
-                "- O Buscador de preços do Rede Frota facilita o trabalho das transportadoras em busca dos menores preços de combustível dentro de uma determinada rota traçada.", "- O buscador faz um cálculo de média onde não deixa faltar posto em determinados km de distância, fazendo com que o motorista sempre tenha o menor preço intercalado entre as regiões que irá passar."    
+                "O Buscador de preços do Rede Frota foi desenvolvido para facilitar o trabalho das transportadoras em busca dos menores preços de combustível dentro de uma determinada rota traçada.", "Ele faz um cálculo de média onde não deixa faltar posto em determinados km de distância, fazendo com que o motorista sempre tenha o menor preço intercalado entre as regiões que irá passar."    
             ],
             "video": "../../../assets/video/Buscador de preço.mp4",
             "mainCardImage": "../../../assets/img/Buscador.svg",
@@ -28,77 +28,64 @@
         },
         {
             "id": 3,
-            "name": "Leitor de currículo PDF/DOC",
-            "technologies": [
-                "../../../assets/img/tec-icons/icons8-javascript.svg", "../../../assets/img/tec-icons/icons8-node-js.svg", "../../../assets/img/tec-icons/icons8-html5.svg"
-            ],
-            "descriptions": [
-                "- O Leitor de currículo foi uma feature para a Reachr Innovative Solutions.", "- No leitor, o usuário pode carregar um arquivo .pdf ou .doc/.docx de currículo, e o leitor irá ler todo o currículo buscando por palavras chaves e ordenando em um arquivo .json, facilitando o uso dos dados de candidatos em vagas da empresa.", "- A solução é integrada atualmente com o software da empresa com um layout aprimorado."    
-            ],
-            "video": "../../../assets/video/Leitor de curriculo.mp4",
-            "mainCardImage": "../../../assets/img/Leitor.svg",
-            "subtitle": "Leitor de currículos da Reachr"
-        },
-        {
-            "id": 4,
             "name": "Live Chat",
             "technologies": [
                 "../../../assets/img/tec-icons/icons8-reagir.svg", "../../../assets/img/tec-icons/icons8-logo-java-coffee-cup.svg", "../../../assets/img/tec-icons/icons8-javascript.svg", "../../../assets/img/tec-icons/icons8-html5.svg", "../../../assets/img/tec-icons/icons8-atrevimento.svg"
             ],
             "descriptions": [
-                "- O Live Chat foi desenvolvido em uma queda do WhatsApp.", "- Com o intuito de poder conversar com amigos, acabei desenvolvendo o Live Chat como uma opção para instabilidade do WhatsApp.", "- O app foi desenvolvido com React.js, e Java/Websocket no backend."    
+                "O Live Chat foi desenvolvido em uma queda do WhatsApp, com o intuito de poder conversar com amigos", "O app foi desenvolvido com React.js, e Java/Websocket no backend."    
             ],
             "video": "../../../assets/video/LiveChat.mp4",
             "mainCardImage": "../../../assets/img/LiveChat.svg",
             "subtitle": "Chat para bate-papo"
         },
         {
-            "id": 5,
+            "id": 4,
             "name": "App de finanças",
             "technologies": [
                 "../../../assets/img/tec-icons/icons8-reagir.svg", "../../../assets/img/tec-icons/icons8-logo-java-coffee-cup.svg", "../../../assets/img/tec-icons/icons8-javascript.svg", "../../../assets/img/tec-icons/icons8-html5.svg", "../../../assets/img/tec-icons/icons8-atrevimento.svg"
             ],
             "descriptions": [
-                "- Desenvolvi o App de finanças para me ajudar com meus custos mensais.", "- O App conta com organização de custo mensal, e custos variáveis.", "- É um CRUD completo, onde desenvolvi o frontend e o backend, utilizando React.js e Java/Springboot respectivamente.", "- Foi minha primeira aplicação Fullstack"    
+                "Desenvolvi o App de finanças para me ajudar com meus custos mensais.", "O App conta com organização de custo mensal, e custos variáveis.", "É um CRUD completo, onde desenvolvi o frontend e o backend, utilizando React.js e Java/Springboot respectivamente.", "Foi minha primeira aplicação Fullstack"    
             ],
             "video": "../../../assets/video/Financas.mp4",
             "mainCardImage": "../../../assets/img/Finances.svg",
             "subtitle": "Aplicativo para organização de finanças"
         },
         {
-            "id": 6,
+            "id": 5,
             "name": "Daily Weather",
             "technologies": [
                 "../../../assets/img/tec-icons/icons8-reagir.svg", "../../../assets/img/tec-icons/icons8-atrevimento.svg", "../../../assets/img/tec-icons/icons8-javascript.svg"
             ],
             "descriptions": [
-                "- Daily Weather é uma aplicação web que consome uma API Rest e exibe a condição climática de todas as cidades, bairros estados ou países do mundo. Obtendo tanto os dados da temperatura atual, quanto nível de umidade e a quantidade de nuvens.", "- É uma aplicação que tenho apego até hoje, pois foi uma das minhas primeiras."
+                "Daily Weather é uma aplicação web que consome uma API Rest e exibe a condição climática de todas as cidades, bairros estados ou países do mundo. Obtendo tanto os dados da temperatura atual, quanto nível de umidade e a quantidade de nuvens.", "É uma aplicação que tenho apego até hoje, pois foi uma das minhas primeiras."
             ],
             "video": "../../../assets/video/dailyweather.mp4",
             "mainCardImage": "../../../assets/img/Daily Weather.svg",
             "subtitle": "Website que consulta a temperatura em qualquer lugar do mundo"
         },
         {
-            "id": 7,
+            "id": 6,
             "name": "Apple Market",
             "technologies": [
                 "../../../assets/img/tec-icons/icons8-reagir.svg", "../../../assets/img/tec-icons/icons8-atrevimento.svg", "../../../assets/img/tec-icons/icons8-javascript.svg"
             ],
             "descriptions": [
-                "- O Apple Market é um clone da página de vendas da Apple.", "- Achei a página da apple um desafio legal para treinar, me fazendo a replicar a página de vendas(na época).", "- Fiz uma simulação de venda/pagamento com conclusão de pedido."
+                "O Apple Market é um clone da página de vendas da Apple.", "Achei a página da apple um desafio legal para treinar, me poropondo a replicar.", "Fiz uma simulação de venda/pagamento com conclusão de pedido."
             ],
             "video": "../../../assets/video/applemarket.mp4",
             "mainCardImage": "../../../assets/img/Apple.svg",
             "subtitle": "Réplica do sistema de vendas da Apple"
         },
         {
-            "id": 8,
+            "id": 7,
             "name": "Pass Generator",
             "technologies": [
                 "../../../assets/img/tec-icons/icons8-reagir.svg", "../../../assets/img/tec-icons/icons8-css3.svg", "../../../assets/img/tec-icons/icons8-javascript.svg"
             ],
             "descriptions": [
-                "- Pass Generator é um app que cria senhas aleatórias, baseadas na seleção do usuário. Pode-se escolher entre letras maiúsculas e minúsculas, números e caracteres especiais.", "- Vi esta ideia de projeto em um dos cursos que fazia na época e criei o meu próprio. Achei um projeto bem legal para praticar a lógica de programação."
+                "Pass Generator é um app que cria senhas aleatórias, baseadas na seleção do usuário. Pode-se escolher entre letras maiúsculas e minúsculas, números e caracteres especiais.", "Vi esta ideia de projeto em um dos cursos que fazia na época e criei o meu próprio. Achei um projeto bem legal para praticar a lógica de programação."
             ],
             "video": "../../../assets/video/Pass Generator.mp4",
             "mainCardImage": "../../../assets/img/PassGenerator.svg",
