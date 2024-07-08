@@ -16,6 +16,7 @@
         {
             "id": 2,
             "name": "Buscador Rede Frota",
+            "background": "url(src/assets/img/bg-livechat.png)",
             "technologies": [
                 "../../../assets/img/tec-icons/icons8-javascript.svg", "../../../assets/img/tec-icons/icons8-google.svg", "../../../assets/img/tec-icons/icons8-html5.svg","../../../assets/img/tec-icons/icons8-css3.svg"
             ],
