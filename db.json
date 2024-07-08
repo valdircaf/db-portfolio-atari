@@ -3,6 +3,7 @@
         {
             "id": 1,
             "name": "Microservice Amigo do Bolso",
+            "backgroundImg": "url(src/assets/img/bg-passgenerator.png)",
             "technologies": [
                 "../../../assets/img/tec-icons/icons8-logo-java-coffee-cup.svg",  "../../../assets/img/tec-icons/icons8-reagir.svg", "../../../assets/img/tec-icons/icons8-atrevimento.svg", "../../../assets/img/tec-icons/icons8-html5.svg"
             ],
@@ -30,7 +31,7 @@
         {
             "id": 3,
             "name": "Live Chat",
-            "backgroundImg": "url(src/assets/img/bg-livechat.png)",
+            "backgroundImg": "url(src/assets/img/bg-passgenerator.png)",
             "technologies": [
                 "../../../assets/img/tec-icons/icons8-reagir.svg", "../../../assets/img/tec-icons/icons8-logo-java-coffee-cup.svg", "../../../assets/img/tec-icons/icons8-javascript.svg", "../../../assets/img/tec-icons/icons8-html5.svg", "../../../assets/img/tec-icons/icons8-atrevimento.svg"
             ],
@@ -58,6 +59,7 @@
         {
             "id": 5,
             "name": "Daily Weather",
+            "backgroundImg": "url(src/assets/img/bg-passgenerator.png)",
             "technologies": [
                 "../../../assets/img/tec-icons/icons8-reagir.svg", "../../../assets/img/tec-icons/icons8-atrevimento.svg", "../../../assets/img/tec-icons/icons8-javascript.svg"
             ],
@@ -71,6 +73,7 @@
         {
             "id": 6,
             "name": "Apple Market",
+            "backgroundImg": "url(src/assets/img/bg-livechat.png)",
             "technologies": [
                 "../../../assets/img/tec-icons/icons8-reagir.svg", "../../../assets/img/tec-icons/icons8-atrevimento.svg", "../../../assets/img/tec-icons/icons8-javascript.svg"
             ],
@@ -84,6 +87,7 @@
         {
             "id": 7,
             "name": "Pass Generator",
+            "backgroundImg": "url(src/assets/img/bg-passgenerator.png)",
             "technologies": [
                 "../../../assets/img/tec-icons/icons8-reagir.svg", "../../../assets/img/tec-icons/icons8-css3.svg", "../../../assets/img/tec-icons/icons8-javascript.svg"
             ],
