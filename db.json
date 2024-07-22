@@ -5,7 +5,7 @@
             "name": "No Prego",
             "backgroundImg": "url(../../../assets/img/noPrego.png)",
             "technologies": [
-                "../../../assets/img/tec-icons/icons8-angular.svg", "../../../assets/img/tec-icons/icons8-atrevimento.svg"
+                "../../../assets/img/tec-icons/icons8-angular.svg", "../../../assets/img/tec-icons/icons8-texto-datilografado.svg" ,"../../../assets/img/tec-icons/icons8-atrevimento.svg"
             ],
             "descriptions": [
                 "No Prego é um projeto de NFT, onde o usuário pode publicar obras e gerenciar a carteira de ativos descentralizados", "Desenvolvi o front-end da aplicação utilizando Angular 16"    
