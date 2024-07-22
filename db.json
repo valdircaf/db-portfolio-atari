@@ -2,6 +2,20 @@
     "projects":[
         {
             "id": 1,
+            "name": "No Prego",
+            "backgroundImg": "url(../../../assets/img/noPrego.png)",
+            "technologies": [
+                "../../../assets/img/tec-icons/icons8-angular.svg", "../../../assets/img/tec-icons/icons8-atrevimento.svg"
+            ],
+            "descriptions": [
+                "No Prego é um projeto de NFT, onde o usuário pode publicar obras e gerenciar a carteira de ativos descentralizados", "Desenvolvi o front-end da aplicação utilizando Angular 16"    
+            ],
+            "video": "../../../assets/video/noPrego.mp4",
+            "mainCardImage": "../../../assets/img/noPrego.png",
+            "subtitle": "No Prego Art"
+        },
+        {
+            "id": 2,
             "name": "Microservice Amigo do Bolso",
             "backgroundImg": "url(../../../assets/img/bg-passgenerator.png)",
             "technologies": [
